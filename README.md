@@ -28,8 +28,9 @@ Seit März 2026 in Vollzeit-Weiterbildung zum **IHK Data Analyst** bei DataSmart
 
 [**kreditportfolio-sql-analyse**](https://github.com/roman-rosenberger/kreditportfolio-sql-analyse) — SQL-Analyse eines Konsumentenkredit-Portfolios (32.581 Datensätze) mit Risikoklassifikation in drei Stufen. Abschlussprojekt SQL-Modul, Juni 2026.
 
+[wohnungsmarkt-radar-deutschland](https://github.com/roman-rosenberger/wohnungsmarkt-radar-deutschland) — Interaktives Power BI Dashboard zum deutschen Wohnungsmarkt (Zensus 2022, 10.786 Gemeinden) mit eigenem Sanierungsdruck- und Investment-Score sowie Python-Pipeline für den API-Datenabruf. Juli 2026.
+
 **In Vorbereitung:**
-- Frankfurter Wohnungsmarkt Dashboard
 - ESG-Scoring Dashboard für Immobilien-Portfolios
 
 ---
