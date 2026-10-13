@@ -1,6 +1,6 @@
 # Roman Rosenberger
 
-**Immobilienprofi mit Datenkompetenz · Frankfurt am Main**
+**Immobilienwissen mit Datenkompetenz · Frankfurt am Main**
 
 > **English summary:** Real estate professional with 10+ years of project sales experience (Bien-Ries AG, WOHNKOMPANIE, d.i.i.) transitioning into real estate data analytics. Currently in full-time IHK Data Analyst certification at DataSmart Point (graduation April 2027). Focus areas: Power BI, SQL, Python, ESG reporting in real estate.
 
@@ -10,7 +10,7 @@
 
 Über zehn Jahre Immobilienvertrieb und Projektierung in Frankfurt und Rhein-Main. Mehr als 1.800 Wohneinheiten von der ersten Käuferansprache bis zur notariellen Beurkundung begleitet — bei Bien-Ries AG, WOHNKOMPANIE und d.i.i. Deutsche Invest Immobilien.
 
-Seit März 2026 in Vollzeit-Weiterbildung zum **IHK Data Analyst** bei DataSmart Point (Abschluss April 2027). Ziel: Immobilienwissen und Datenkompetenz zu einem klaren Angebot verbinden — Real Estate Data Analyst mit ESG-Fokus.
+Seit März 2026 in Vollzeit-Weiterbildung zum **IHK Data Analyst** bei DataSmart Point (Abschluss April 2027). Ziel: Immobilienwissen und Datenkompetenz zu einem klaren Angebot verbinden.
 
 ---
 
