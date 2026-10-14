@@ -2,7 +2,7 @@
 
 **Immobilienwissen mit Datenkompetenz · Frankfurt am Main**
 
-> **English summary:** Real estate professional with 10+ years in project sales and development (Bien-Ries AG, WOHNKOMPANIE, d.i.i.) moving into data analytics for property operations. Currently in full-time IHK Data Analyst certification at DataSmart Point (graduation April 2027). Focus: reporting and process automation for property managers and portfolio holders — Power BI, SQL, Python, PostgreSQL. Open to an internship from spring 2027.
+> **English summary:** Real estate professional with 10+ years in project sales and development (Bien-Ries AG, WOHNKOMPANIE, d.i.i.) moving into data analytics for property operations. Currently in full-time IHK Data Analyst certification at DataSmart Point (graduation April 2027). Focus: reporting and process automation for property managers and portfolio holders - Power BI, SQL, Python, PostgreSQL. Open to an internship from spring 2027.
 
 ---
 
@@ -10,7 +10,7 @@
 
 Über zehn Jahre Immobilienvertrieb und Projektierung in Frankfurt und Rhein-Main. Mehr als 1.800 Wohneinheiten von der ersten Käuferansprache bis zur notariellen Beurkundung begleitet — bei Bien-Ries AG, WOHNKOMPANIE und d.i.i. Deutsche Invest Immobilien.
 
-Seit März 2026 in Vollzeit-Weiterbildung zum **IHK Data Analyst** bei DataSmart Point (Abschluss April 2027). Ich kenne Immobilienbestände von innen — und lerne jetzt, sie datenbasiert auswertbar zu machen.
+Seit März 2026 in Vollzeit-Weiterbildung zum **IHK Data Analyst** bei DataSmart Point (Abschluss April 2027). Ich kenne Immobilienbestände von innen und lerne jetzt, sie datenbasiert auswertbar zu machen.
 
 **Ab Frühjahr 2027 suche ich ein Praktikum** an der Schnittstelle Immobilien und Daten, in dem ich meine Branchenerfahrung mit echter Datenpraxis im Team verbinde.
 
@@ -18,7 +18,7 @@ Seit März 2026 in Vollzeit-Weiterbildung zum **IHK Data Analyst** bei DataSmart
 
 ## Wohin ich will
 
-Reporting und Prozessautomatisierung für **Hausverwaltungen und Bestandshalter** — die Arbeit an den unstrukturierten Rändern, die keine Standardsoftware abnimmt: Forderungen, Fluktuation, Leerstandsdauer, Index- und Mietanpassungsfristen, Instandhaltungskosten. Aus einem Haufen Exporte wird eine Übersicht, die eine Entscheidung auslöst.
+Reporting und Prozessautomatisierung für **Hausverwaltungen und Bestandshalter** die Arbeit an den unstrukturierten Rändern, die keine Standardsoftware abnimmt: Forderungen, Fluktuation, Leerstandsdauer, Index- und Mietanpassungsfristen, Instandhaltungskosten. Aus einem Haufen Exporte wird eine Übersicht, die eine Entscheidung auslöst.
 
 ---
 
