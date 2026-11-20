@@ -1,44 +1,38 @@
 # Roman Rosenberger
 
-**Immobilienwissen mit Datenkompetenz · Frankfurt am Main**
+**Data Analyst (IHK, 04/2027) · Immobilienkaufmann (IHK) · Immobiliendaten & Property Management · Frankfurt am Main**
 
-> **English summary:** Real estate professional with 10+ years in project sales and development (Bien-Ries AG, WOHNKOMPANIE, d.i.i.) moving into data analytics for property operations. Currently in full-time IHK Data Analyst certification at DataSmart Point (graduation April 2027). Focus: reporting and process automation for property managers and portfolio holders - Power BI, SQL, Python, PostgreSQL. Open to an internship from spring 2027.
+> **English summary:** Trained real estate professional (IHK) with ten years in new-build sales at Bien-Ries AG, WOHNKOMPANIE and d.i.i. Deutsche Invest Immobilien, now working with real estate data. Full-time IHK Data Analyst certification at DataSmart Point, graduation April 2027. Focus: preparing and cleaning property data with SQL and PostgreSQL, reporting with Power BI, analysis with Python.
 
 ---
 
 ## Hintergrund
 
-Über zehn Jahre Immobilienvertrieb und Projektierung in Frankfurt und Rhein-Main. Mehr als 1.800 Wohneinheiten von der ersten Käuferansprache bis zur notariellen Beurkundung begleitet — bei Bien-Ries AG, WOHNKOMPANIE und d.i.i. Deutsche Invest Immobilien.
+Nach meiner Ausbildung zum Immobilienkaufmann (IHK) war ich zehn Jahre im Vertrieb von Neubauprojekten tätig, bei der Bien-Ries AG, der WOHNKOMPANIE und der d.i.i. Deutsche Invest Immobilien. Die Projekte hatten zusammen rund 1.330 Wohneinheiten, rund 300 davon habe ich selbst bis zur Beurkundung begleitet. Dabei habe ich gesehen, wie viele Daten über einen Bestand entstehen und wie wenig davon später genutzt wird.
 
-Seit März 2026 in Vollzeit-Weiterbildung zum **IHK Data Analyst** bei DataSmart Point (Abschluss April 2027). Ich kenne Immobilienbestände von innen und lerne jetzt, sie datenbasiert auswertbar zu machen.
-
-**Ab Frühjahr 2027 suche ich ein Praktikum** an der Schnittstelle Immobilien und Daten, in dem ich meine Branchenerfahrung mit echter Datenpraxis im Team verbinde.
+Seit März 2026 bilde ich mich in Vollzeit zum **Data Analyst (IHK)** bei DataSmart Point weiter, Abschluss im April 2027.
 
 ---
 
-## Wohin ich will
+## Schwerpunkt
 
-Reporting und Prozessautomatisierung für **Hausverwaltungen und Bestandshalter** die Arbeit an den unstrukturierten Rändern, die keine Standardsoftware abnimmt: Forderungen, Fluktuation, Leerstandsdauer, Index- und Mietanpassungsfristen, Instandhaltungskosten. Aus einem Haufen Exporte wird eine Übersicht, die eine Entscheidung auslöst.
+Aufbereitung von Immobiliendaten: Daten aus verschiedenen Quellen zusammenführen, bereinigen und so aufbereiten, dass Eigentümer und Verwalter ihnen trauen können.
 
----
-
-## Aktueller Fokus
-
-- **SQL / PostgreSQL** — Kennzahlen-Layer, komplexe Abfragen, CASE WHEN, Subqueries, Window Functions
-- **Power BI** — Datenmodellierung, DAX, Dashboards für Verwaltungs- und Bestandsreporting
-- **Python** — Datenanalyse mit pandas, automatisierter Datenabruf und -aufbereitung
-- **Prozessautomatisierung** — Ladeskripte, Datenqualitäts-Checks, wiederholbare Pipelines statt Einmal-Handarbeit
-- **Excel / Power Query** — Pivot, Datenmodelle, ETL für strukturierte Quellen
+- **SQL / PostgreSQL:** Kennzahlen-Layer, Views, CASE WHEN, Subqueries, Window Functions
+- **Datenqualität:** Ladeskripte, Kontrollwerte, Plausibilitätsprüfungen, wiederholbare Abläufe statt Handarbeit
+- **Power BI:** Datenmodellierung, DAX, Reporting vom Portfolio bis zur einzelnen Einheit
+- **Python:** pandas, automatisierter Datenabruf über APIs, erste Machine-Learning-Modelle mit scikit-learn
+- **Excel / Power Query:** Pivot, Datenmodelle, ETL für strukturierte Quellen
 
 ---
 
-## Projekte auf GitHub
+## Projekte
 
-[**hausverwaltung-kennzahlen**](https://github.com/roman-rosenberger/hausverwaltung-kennzahlen) — SQL-Kennzahlen-Layer und Power-BI-Dashboard für Hausverwaltungen (PostgreSQL). Wertet den Bestand aus: Forderungs-Aging, Fluktuation, Leerstandsdauer, Ist- vs. Marktmiete, Instandhaltungs-Benchmarks. Gebaut mit einem Branchenexperten, getestet an über 51.000 Zeilen realitätsnaher Daten. **Aktuelles Hauptprojekt.**
+[**hausverwaltung-kennzahlen**](https://github.com/roman-rosenberger/hausverwaltung-kennzahlen): SQL-Kennzahlen-Layer auf PostgreSQL mit Power-BI-Dashboard für Hausverwaltungen. Forderungs-Aging, Leerstand und Leerstandsdauer, Fluktuation, Ist- vs. Marktmiete, Instandhaltung je m². Entstanden mit Tim Goebel, der die Verwalterseite und einen synthetischen Testbestand beisteuert (205 Einheiten, rund 51.000 Datenzeilen).
 
-[**wohnungsmarkt-radar-deutschland**](https://github.com/roman-rosenberger/wohnungsmarkt-radar-deutschland) — Interaktives Power-BI-Dashboard zum deutschen Wohnungsmarkt (Zensus 2022, 10.786 Gemeinden) mit eigenem Sanierungsdruck-Score für den Gebäudebestand. Inklusive Python-Pipeline für den automatisierten API-Datenabruf.
+[**wohnungsmarkt-radar-deutschland**](https://github.com/roman-rosenberger/wohnungsmarkt-radar-deutschland): Power-BI-Dashboard zum deutschen Wohnungsmarkt auf Basis des Zensus 2022 (10.786 Gemeinden) mit eigenem Sanierungsdruck-Score. Inklusive Python-Pipeline für den Datenabruf über die API des Statistischen Bundesamts.
 
-[**kreditportfolio-sql-analyse**](https://github.com/roman-rosenberger/kreditportfolio-sql-analyse) — SQL-Analyse eines Konsumentenkredit-Portfolios (32.581 Datensätze) mit Risikoklassifikation in drei Stufen. Abschlussprojekt SQL-Modul.
+[**kreditportfolio-sql-analyse**](https://github.com/roman-rosenberger/kreditportfolio-sql-analyse): SQL-Analyse eines Konsumentenkredit-Portfolios (32.581 Datensätze) mit Risikoklassifikation in drei Stufen. Abschlussprojekt im SQL-Modul.
 
 ---
 
@@ -48,14 +42,6 @@ Deutsch (Muttersprache) · Türkisch (fließend) · Englisch (sicher)
 
 ---
 
-## Vernetzung
+## Kontakt
 
-[**LinkedIn**](https://www.linkedin.com/in/roman-rosenberger/) — regelmäßige Inhalte zu Immobilien, Daten und Verwaltungsprozessen
-
-Frankfurt am Main · Immobilien · Hausverwaltung · Data Analytics
-
----
-
-## Über diesen Bereich
-
-Die hier veröffentlichten Projekte begleiten meinen Weg vom Immobilienvertrieb in die Datenanalyse — technische Umsetzung vor dem fachlichen Hintergrund von über zehn Jahren in der Branche.
+[**LinkedIn**](https://www.linkedin.com/in/roman-rosenberger-b19464257/) · Frankfurt am Main
